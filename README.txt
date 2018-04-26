@@ -1,4 +1,4 @@
-#######################################################################################################################
+﻿#######################################################################################################################
  _______  _______ __________________   _______  _______  _        _        _______  _______ _________ _______  _______ 
 (       )(  ___  )\__   __/\__   __/  (  ____ \(  ___  )( \      ( \      (  ____ \(  ____ \\__   __/(  ___  )(  ____ )
 | () () || (   ) |   ) (      ) (     | (    \/| (   ) || (      | (      | (    \/| (    \/   ) (   | (   ) || (    )|
@@ -17,7 +17,7 @@ INFO:             =
 - Ve složce kde je rovněž i setup.py použít příkaz pip install . - to nainstaluje potřebné moduly
 - Aplikace pro archivaci dat je ve složce MQQT_collector (main.py)
 - Aplikace pro přístup k datům je dostupná ve složce mqtt_client_app (mqttt.py)
-- Konfigurační soubory (MQQT_collector/config) jsou nastaveny na funkční broker a databázový server
+- Konfigurační soubory (MQTT_collector/config) jsou nastaveny na funkční broker a databázový server
 ===================
 
 ======================================
