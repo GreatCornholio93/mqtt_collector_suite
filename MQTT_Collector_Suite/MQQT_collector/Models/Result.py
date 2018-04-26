@@ -1,4 +1,3 @@
-from demjson import JSON
 from sqlalchemy import Integer, Column, String, Text
 
 from DatabaseBusiness.database_manager import Base
